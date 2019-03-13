@@ -3509,11 +3509,11 @@ AndreyAdnreyev: andrey.adnreyev!oracle.com
 	Oracle
 AndreyShamis: AndreyShamis!users.noreply.github.com
 	Intel
-André Wachter*: a.wachter!anfe.ma, andrew8er!users.noreply.github.com
+André Wachter*: a.wachter!anfe.ma, andrew8er!users.noreply.github.com
 	Anfema
 	Independent until 2017-06-01
 	Stampay until 2014-09-01
-André Wachter*: hello!andrewachter.de
+André Wachter*: hello!andrewachter.de
 	NotFound
 Andrii Anisov: andrii_anisov!epam.com
 	EPAM Systems
@@ -4535,7 +4535,7 @@ Arnaud Deprez: arnaud-deprez!users.noreply.github.com, arnaudeprez!gmail.com
 	Akka Technologies until 2016-09-01
 	Lampiris until 2016-07-01
 	Atos Wordline until 2014-03-01
-Arnaud Héritier: aheritier!apache.org
+Arnaud Héritier: aheritier!apache.org
 	Apache
 Arnaud Kervern: arnaud.k!gmail.com
 	Nuxeo
@@ -8643,7 +8643,7 @@ Christian Heimes: cheimes!redhat.com
 	Red Hat
 Christian Hoff: christian.hoff!de.ibm.com
 	IBM
-Christian Höltje: choltje!us.ibm.com
+Christian Höltje: choltje!us.ibm.com
 	IBM
 Christian Jantz: chris!safewrd.com
 	Safewrd
@@ -14659,7 +14659,7 @@ Felix Becker: felix.b!outlook.com
 	Sourcegraph
 Felix Blyakher: felixb!sgi.com
 	SGI
-Felix Bünemann: buenemann!louis.info, felixbuenemann!users.noreply.github.com
+Felix Bünemann: buenemann!louis.info, felixbuenemann!users.noreply.github.com
 	LOUISINTERNET
 Felix Hall: felix.hall!sonymobile.com
 	Sony Mobile Communications
@@ -14882,7 +14882,7 @@ Florian Hagniel: florian.hagniel!advens.fr
 	ADVENS
 Florian Mickler: florian!mickler.org
 	AUDI AG
-Florian Müller: florian.mueller02!sap.com
+Florian Müller: florian.mueller02!sap.com
 	SAP
 Florian Pfitzer: pfitzer!w3p.cc
 	Wurzel3
@@ -15855,6 +15855,8 @@ Germano Percossi: germano.percossi!citrix.com
 	Citrix
 Germán Larraín: glarrain!users.noreply.github.com
 	InstaGIS
+German Muzquiz Rodriguez: german.muzquiz!armory.io, german.muzquiz!digitalonus.com, german640!gmail.com
+	Armory
 Gerrit Renker: gerrit!erg.abdn.ac.uk
 	CenturyLink
 	Data Gardens until 2014-12-01
@@ -29111,7 +29113,7 @@ Mathieu Champlon: mathieu.champlon!docker.com
 	Docker
 Mathieu Desnoyers: mathieu.desnoyers!efficios.com
 	EfficiOS
-Mathieu Gagné: mgagne!iweb.com
+Mathieu Gagné: mgagne!iweb.com
 	Internap
 	iWeb until 2013-10-30
 Mathieu Herbert: math.herbert!gmail.com, mathieuherbert!users.noreply.github.com
